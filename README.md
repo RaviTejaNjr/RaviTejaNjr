@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/RaviTejaNjr/RaviTejaNjr/blob/main/Header.png)
 <h1 align="Left">Hi 👋, I'm Ravi Teja</h1>
 <h3 align="Left">Novice Computer Vision Enthusiast</h3>
-<img align="right" alt="Coding" width="550" src="https://github.com/RaviTejaNjr/RaviTejaNjr/blob/main/Bio_Vid.gif">
+<img align="right" alt="Coding" width="500" src="https://github.com/RaviTejaNjr/RaviTejaNjr/blob/main/Bio_Vid.gif">
 
 
 
