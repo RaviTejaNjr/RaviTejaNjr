@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [📄](https://drive.google.com/file/d/1mm0VMWogjyyHjRu1Lujz5gvcXkOoh_9J/view?usp=sharing)
 
-- ⚡ Fun fact **I’ve been to 15 countries✈️🌍**
+- ⚡ Fun fact **I’ve been to 8 countries✈️🌍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
