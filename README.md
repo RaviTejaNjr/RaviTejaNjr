@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Computer Vision Projects**
 
-- 🌱 I’m currently learning **Keras-TensorFlow, SQL**
+- 🌱 I’m currently learning **Keras-TensorFlow, SQL, Power BI**
 
 - 📫 How to reach me **g.raviteja414@gmail.com**
 
