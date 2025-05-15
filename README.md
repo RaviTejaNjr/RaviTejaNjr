@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravitejanjr&label=Profile%20views&color=0e75b6&style=flat" alt="ravitejanjr" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision Project**
+- 🔭 I’m currently working on an **LLM Project 👀**
 
-- 🌱 I’m currently learning **Keras-TensorFlow, SQL, Power BI**
+- 🌱 I’m currently learning **LLMs**
 
 - 📫 How to reach me **g.raviteja414@gmail.com**
 
