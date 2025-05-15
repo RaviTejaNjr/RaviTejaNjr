@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **g.raviteja414@gmail.com**
 
-- 📄 Know about my experiences [📄](https://drive.google.com/file/d/1mm0VMWogjyyHjRu1Lujz5gvcXkOoh_9J/view?usp=sharing)
+- 📄 Know about my experiences [📄](https://drive.google.com/file/d/1E4q8vZNLogHyfqdA0qu25glmDPbBxI0_/view?usp=sharing)
 
 - ⚡ Fun fact **I’ve been to 8 countries✈️🌍**
 
